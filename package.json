@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/mossmax62/desafio-ecommerce-back#readme",
   "devDependencies": {
+    "nodemon": "^3.1.4",
+    "standard": "^17.1.0",
     "standart": "^6.1.0"
   },
   "dependencies": {
